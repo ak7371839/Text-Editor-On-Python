@@ -1,3 +1,13 @@
+# Use Of a variable a this
+'''
+from tkinter import *
+from tkinter import filedialog
+from tkinter import messagebox
+from tkinter import scrolledtext
+from turtle import window_width
+from tkinter import ttk
+'''
+
 from tkinter import *
 from tkinter import filedialog
 from tkinter import messagebox
